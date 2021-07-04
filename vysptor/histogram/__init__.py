@@ -1,0 +1,1 @@
+from .ehd import EdgeHistogramDescriptor
